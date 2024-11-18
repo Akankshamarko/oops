@@ -1,4 +1,6 @@
-package assingnment2;
+
+
+
 class xyz{
     String name;
     int id;
@@ -15,3 +17,5 @@ public class paraConst {
     }
     
 }
+    
+
